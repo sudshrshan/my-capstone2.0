@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    background-image: url("./capstonbackground.jpg");
+    height: 100vh;
+    width: auto;
+    background-size: cover;
+}
+.container0{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#gap{
+    margin-left: 10px;
+}
+.name{
+    text-align: center;
+    color: aliceblue;
+}
+.img{
+    height: 200px;
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.About{
+    height: 50vh;
+    display:flex;
+
+}
+.container1{
+    margin-top: 50px;
+    height: 50vh;
+    width: auto;
+}
+.picture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Details{
+    margin-top: 20px;
+    text-align: center;
+}
+h1{
+    font-size: 2.5rem;
+}
+.container2{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.title{
+    text-align: center;
+}
+/* .container3{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width: 40%;
+    margin-right: 50px;
+}
+.card-body>img{
+    float: left;
+    text-align: justify;
+    margin-right: 10px;
+} */
+
+.container3{
+    margin-top: 100px;
+}
+.container4{
+    margin-top: 50px;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.subtitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.contactdetails{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container5{
+    margin-top: 50px;
+    background-color: rgb(25, 174, 234);
+}
+
+
+
